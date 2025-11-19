@@ -1,0 +1,1 @@
+The purpose of this project is to create a simple game of rock, paper, and scissors between a computer and a player that is played through the DevTools console. The skills demonstrated are a basic understanding and use of variables, data types, operators, conditionals, functions, and loops.
